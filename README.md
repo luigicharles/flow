@@ -1,6 +1,6 @@
 # 🎈 airflow-docker-compose
 
-run an airflow with docker-compose 
+run an airflow instance in seconds with docker-compose
 
 ## requirements 
 
