@@ -1,4 +1,4 @@
-# ✈️ airflow-docker-compose
+# 💭 airflow-docker-compose
 
 run an airflow instance in seconds with docker-compose
 
