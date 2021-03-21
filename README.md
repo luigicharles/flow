@@ -4,10 +4,10 @@ run an airflow instance in seconds with docker-compose
 
 ## requirements 
 
-    - docker 
+    docker 
     
-    - docker-compose 
+    docker-compose 
 
 ## usage 
 
-        docker-compose up --build 
+    docker-compose up --build 
